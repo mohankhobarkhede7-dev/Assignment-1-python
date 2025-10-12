@@ -1,8 +1,10 @@
-a=input("Enter First number\n:",)
-b=input("Enter second number\n:",)
-a=int(a)
-b=int(b)
-print("Addition:",a+b)
-print("Subtraction:",a-b)
-print("Multiplication:",a*b)
-print("Division:",a/b)
+num_1=int(input("Enter the first number:",))
+num_2=int(input("Enter the second number:",))
+print("Addition:",num_1+num_2)
+print("Substraction:",num_1-num_2)
+print("Multiplication:" , num_1*num_2)
+if(num_2>0):
+	print("Division:",num_1/num_2)
+else:
+		print(undefined)
+	

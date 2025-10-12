@@ -1,1 +1,5 @@
+a =input("enter the fist name :")
+b=input("enter the last name :")
 
+
+print("Hello, john Doe! welcome to the python program.")

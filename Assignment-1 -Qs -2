@@ -1,5 +1,5 @@
 first_name=input("enter the fist name :")
 last_name=input("enter the last name :")
-full_name=first_name" " last_name
+full_name=first_name+" "+ last_name
 
 print("Hello,", full_name + "! Welcome to Python programming.")
